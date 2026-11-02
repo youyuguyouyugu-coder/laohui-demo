@@ -20,9 +20,11 @@ Demo 1.1 · 补充原始资料版本
 
 ## 下载和开始
 
-请进入本项目的 **[Releases（版本发布）](https://github.com/youyuguyouyugu-coder/laohui-demo/releases)** 页面，找到 **Demo 1.1 · 补充原始资料版本**，下载：
+**[下载完整运行包（约 333 MB）](https://github.com/youyuguyouyugu-coder/laohui-demo/releases/download/demo-1.1/laohui-demo-1.1-full.zip)**
 
-`老回怒闯三星洞_Demo1.1_补充原始资料版本_完整运行.zip`
+也可以进入本项目的 **[Releases（版本发布）](https://github.com/youyuguyouyugu-coder/laohui-demo/releases)** 页面，找到 **Demo 1.1 · 补充原始资料版本**，下载：
+
+`laohui-demo-1.1-full.zip`
 
 文件约333 MB，包含全部六组可回看的原始录像。
 
